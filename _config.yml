@@ -10,8 +10,8 @@ title: OuiCodeGIS
 email: pfpimenta@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   A portal with news, tutorials and tips about GIS.
-baseurl: "/ouicodegis" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://paulofpimenta.github.io/ouicodegis/" # the base hostname & protocol for your site
 github_username:  paulofpimenta
 twitter_username:  paulofpimenta
 linkedin_username:  paulofpimenta
