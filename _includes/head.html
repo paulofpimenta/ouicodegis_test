@@ -7,9 +7,9 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   
   <!-- Jquery -->
-  <script src="{{ '/static/jquery-3.1.1.min.js' | relative_url }}"></script>
+  <script src="{{site.baseurl}}/static/jquery-3.1.1.min.js"></script>
   <!-- Bootstrap -->
-  <link rel="stylesheet" href="{{ 'static/bootstrap.min.css' | relative_url }}">
+  <link rel="stylesheet" href="{{site.baseurl}}/static/bootstrap.min.css">
   <script src="{{site.baseurl}}/static/bootstrap.min.js"></script>
   <!-- Fontsawesome -->
   <link rel="stylesheet" href="{{site.baseurl}}/static/font-awesome-5.3.1/css/all.css">
@@ -27,5 +27,4 @@
   <link rel="stylesheet" href="{{ '/css/syntax.css' | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="icon" type="image/png" href="{{'/img/favicon_32.ico'}}">
 </head>
