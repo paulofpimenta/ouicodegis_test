@@ -17,19 +17,19 @@ Ilmenau was quite a small city located in central Germany, the transportation is
 ### General Experience
 The conference was held by TU Ilmenau, an university centering in technology. The campus was built on a moutain with a very nice secenery. I actually met several computer science guys there ^_^.
 
-<img src="/img/iswi3.jpg" style="height:50%;width:50%;">
+<img src="{{site.baseurl}}/img/iswi3.jpg" style="height:50%;width:50%;">
 
 A typical day during the week is basically lecture/workshop + discussion + live concert/some other festival + club night, starting from 9 am to 2pm. The lectures were actually very interesting, there were topics on international NGOs, human rights, and even Bitcoin! 
 
-<img src="/img/iswi1.jpg" style="height:50%;width:50%;">
+<img src="{{site.baseurl}}/img/iswi1.jpg" style="height:50%;width:50%;">
 
 I was in the music group, and I met extremly talented people there, there was a professional pianist and famous band members! We made an original EuroVision-like song about global justice. Somehow I've managed to play the electronic guitar and the closing ceremony finally ^_^.
 
-<img src="/img/iswi2.jpg" style="height:50%;width:50%;">
+<img src="{{site.baseurl}}/img/iswi2.jpg" style="height:50%;width:50%;">
 
 During the live concert, I could experiece something "Germany" (mixed beer haha). Somehow I love the idea of mixing beer with everything.
 
-<img src="/img/iswi4.jpg" style="height:50%;width:50%;">
+<img src="{{site.baseurl}}/img/iswi4.jpg" style="height:50%;width:50%;">
 
 After schedule on the time table finally comes party time! I'm not a night person so I only went to clubs inside campus for three times, I tasted all kinds of beer from different parts of Germany, but unluckily I missed the "Jägermeister night".
 

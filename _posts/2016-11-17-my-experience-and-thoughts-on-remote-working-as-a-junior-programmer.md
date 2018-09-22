@@ -22,7 +22,7 @@ The best part of remote working is much more free time. I don't have to wake up 
 
 Also for me, working from home is easier to concentrate because there are fewer distractions.
 
-<img src="/img/remote_working.jpg" style="height:50%;width:50%;">
+<img src="{{site.baseurl}}/img/remote_working.jpg" style="height:50%;width:50%;">
 <p style="font-size:14px">My desktop and my friends  o(●´ω｀●)oわくわく♪</p>
 
 
