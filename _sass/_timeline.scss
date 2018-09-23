@@ -175,7 +175,8 @@ $link-color: $brand-color;
   border-radius: 10px;
   border: 4px solid $link-color;
   z-index: 10;
-  @media(max-width: 860px) {
+
+  @media(max-width: 320px) {
     position: absolute;
     top: -30px;
     left: 50%;
