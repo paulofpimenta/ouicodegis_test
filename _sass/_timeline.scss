@@ -10,7 +10,8 @@ $link-color: $brand-color;
   padding-left: 30px;
   margin-left: 0px;
   list-style-type: none;
-  @media(max-width: auto) {
+
+  @media(max-width: 320px) {
     width: 200%;
     padding: 1em 0 1em 0;
   }
@@ -47,7 +48,8 @@ $link-color: $brand-color;
   width: 950px;
   float: left;
   text-align: right;
-  @media(max-width: 860px) {
+
+  @media(max-width: 320px) {
     float: none;
     width: 100%;
     text-align: center;
@@ -66,7 +68,8 @@ $link-color: $brand-color;
       border-left-color: rgb(248,248,248);
       border-width: 8px;
       pointer-events: none;
-      @media(max-width: 860px) {
+
+      @media(max-width: 320px) {
         content: "";
         position: absolute;
         left: 50%;
@@ -83,7 +86,7 @@ $link-color: $brand-color;
   }
   .time-wrapper {
     float: left;
-    @media(max-width: 860px) {
+    @media(max-width: 320px) {
       float: none;
     }
   }
@@ -94,7 +97,8 @@ $link-color: $brand-color;
   position: relative;
   width: 100%;
   float: left;
-  @media(max-width: auto) {
+
+  @media(max-width: 320px) {
     float: left;
     width: 50%;
     text-align: left;
@@ -113,7 +117,7 @@ $link-color: $brand-color;
       border-right-color: $brand-color;
       border-width: 8px;
       pointer-events: none;
-      @media(max-width: 860px) {
+      @media(max-width: 320px) {
         content: "";
         position: absolute;
         left: 0%;
@@ -133,7 +137,7 @@ $link-color: $brand-color;
   }
   .time-wrapper {
     float: right;
-    @media(max-width: 860px) {
+    @media(max-width: 320px) {
       float: none;
     }
   }
@@ -143,7 +147,7 @@ $link-color: $brand-color;
   position: relative;
   display: inline-block;
   text-align: center;
-  @media(max-width: 860px) {
+  @media(max-width: 320px) {
     text-align: center;
   }
   .flag {
@@ -154,7 +158,7 @@ $link-color: $brand-color;
     border-radius: 5px;
     font-weight: 600;
     text-align: left;
-    @media(max-width: 860px) {
+    @media(max-width: 320px) {
       background: rgb(255,255,255);
       z-index: 15;
     }
@@ -194,7 +198,7 @@ $link-color: $brand-color;
   font-size: 0.66666em;
   color: $link-color;
   vertical-align: middle;
-  @media(max-width: 860px) {
+  @media(max-width: 320px) {
     display: block;
     position: relative;
     margin: 4px 0 0 0;
@@ -219,7 +223,7 @@ $link-color: $brand-color;
       text-decoration: underline;
     }
   }
-  @media(max-width: 860px) {
+  @media(max-width: 320px) {
     position: relative;
     margin: 1em 1em 0 1em;
     padding: 10em;
