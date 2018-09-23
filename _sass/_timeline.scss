@@ -10,8 +10,7 @@ $link-color: $brand-color;
   padding-left: 30px;
   margin-left: 0px;
   list-style-type: none;
-
-  @media(max-width: 320px) {
+  @media(max-width: auto) {
     width: 200%;
     padding: 1em 0 1em 0;
   }
@@ -48,7 +47,6 @@ $link-color: $brand-color;
   width: 950px;
   float: left;
   text-align: right;
-
   @media(max-width: 320px) {
     float: none;
     width: 100%;
